@@ -45,7 +45,7 @@ This repo is not a full tutorial because I'm not writing Markdown novels twice. 
 
 | Tool | Purpose |
 |------|---------|
-| Ubuntu Server | The OS your Raspberry Pi dreams of being |
+| Ubuntu Server | Runs forever unless you kick the power cable or appoint a new *MD OF NEA* |
 | Docker | Containers, because raw installs does not exude **AURA** |
 | Jellyfin | Netflix but without the fees, spying, or content you didn’t ask for |
 | Cloudflare Tunnel | Your SHIT ISP can’t ruin this for you |

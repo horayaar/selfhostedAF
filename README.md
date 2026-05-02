@@ -6,9 +6,9 @@ A secure, self-hosted media server using Jellyfin, Docker, and Cloudflare Tunnel
 **I turned an old, dusty PC into a fully-loaded, ad-free, self-hosted media beast.**
 
 **selfhostedAF** is a DIY project that says:
-- No to cloud subscription hell
+- No to cloud subscription
 - No to YouTube ads every 3.5 seconds
-- No to port forwarding because my ISP is **SHIT**
+- No to port forwarding
 - Yes to privacy and glory lol.
 
 ---
@@ -45,10 +45,10 @@ This repo is not a full tutorial because I'm not writing Markdown novels twice. 
 
 | Tool | Purpose |
 |------|---------|
-| Ubuntu Server | Runs forever unless you kick the power cable or appoint a new *MD OF NEA* |
+| Ubuntu Server | Runs forever unless you kick the power cable |
 | Docker | Containers, because raw installs does not exude **AURA** |
 | Jellyfin | Netflix but without the fees, spying, or content you didn’t ask for |
-| Cloudflare Tunnel | Your SHIT ISP can’t ruin this for you |
+| Cloudflare Tunnel | Your ISP can’t ruin this for you |
 | Samba (SMB) | So Windows can pretend it understands Linux just like me. |
 | Hashnode | Where I wrote a 2,000-word rant about this setup |
 
